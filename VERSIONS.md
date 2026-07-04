@@ -26,6 +26,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | image | 2.0.0 | 2026-05-05 |
 | launch | 2.0.0 | 2026-05-05 |
 | lead-magnets | 2.0.0 | 2026-05-05 |
+| marketing-council | 2.1.0 | 2026-07-04 |
 | marketing-ideas | 2.0.0 | 2026-05-05 |
 | marketing-psychology | 2.0.0 | 2026-05-05 |
 | onboarding | 2.0.0 | 2026-05-05 |
@@ -46,6 +47,12 @@ Current versions of all skills. Agents can compare against local versions to che
 | video | 2.0.0 | 2026-05-05 |
 
 ## Recent Changes
+
+### marketing-council 2.1.0 (2026-07-04)
+- Added 8th advisor persona: **nlp-expert** - world-class Neuro-Linguistic Programming authority (Bandler-Grinder lineage: Meta Model, Milton Model, representational systems, anchoring, reframing)
+- New Step 3 deliverable: NLP-PATTERNS.md (representational mapping, reframing library, anchoring plan, pacing-and-leading, future-paced CTAs) with markup pass on COPY.md
+- nlp-expert integrated into Step 2 kickoff (one language lever per concept), Step 4 synthesis (language pattern layer in Creative Direction), Step 5 execution (all conversion copy applies the pattern system), and Step 6 postmortem (pattern-vs-conversion analysis)
+- New hard rule: NLP patterns for clarity and resonance only - no fabricated urgency, fear exploitation, or covert manipulation; brand-guardian holds veto
 
 ### 2.0.0 (2026-05-05)
 

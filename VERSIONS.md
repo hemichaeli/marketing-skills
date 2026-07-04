@@ -26,7 +26,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | image | 2.0.0 | 2026-05-05 |
 | launch | 2.0.0 | 2026-05-05 |
 | lead-magnets | 2.0.0 | 2026-05-05 |
-| marketing-council | 2.1.0 | 2026-07-04 |
+| marketing-council | 2.2.0 | 2026-07-04 |
 | marketing-ideas | 2.0.0 | 2026-05-05 |
 | marketing-psychology | 2.0.0 | 2026-05-05 |
 | onboarding | 2.0.0 | 2026-05-05 |
@@ -47,6 +47,13 @@ Current versions of all skills. Agents can compare against local versions to che
 | video | 2.0.0 | 2026-05-05 |
 
 ## Recent Changes
+
+### marketing-council 2.2.0 (2026-07-04)
+- nlp-expert gains a full **fear and loss architecture**: fear mapping from customer research (the audience's 3 strongest real fears, in their own words), EPPM builds (threat severity + susceptibility + response efficacy + self-efficacy), loss framing and cost-of-inaction quantification, Problem-Agitate-Solve sequences, negative future pacing, and the sophistication rule (specificity over volume)
+- Kickoff contribution extended: strongest documented fear-of-inaction angle per concept
+- Synthesis section 3 now includes the fear map with sources; section 6 requires a fear-frame vs gain-frame A/B test on conversion surfaces
+- Postmortem: nlp-expert analyzes which fear frames lifted conversion and which triggered reactance
+- Truth boundary retained and sharpened: fear appeals encouraged when the risk is real and documented; fabricated risks, false medical/financial claims, and fake scarcity remain out. brand-guardian verifies sourcing on every fear-based claim
 
 ### marketing-council 2.1.0 (2026-07-04)
 - Added 8th advisor persona: **nlp-expert** - world-class Neuro-Linguistic Programming authority (Bandler-Grinder lineage: Meta Model, Milton Model, representational systems, anchoring, reframing)
